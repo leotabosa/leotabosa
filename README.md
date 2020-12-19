@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leotabosa&line_height=32&hide=stars&title_color=555555&text_color=838383&count_private=true" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leotabosa&langs_count=3&title_color=555555&text_color=838383" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leotabosa&langs_count=3&title_color=555555&text_color=838383&layout=compact" />
 </a>
 
 ### Languages and tools:
