@@ -1,5 +1,5 @@
 **Hi there!**
-
+<hr>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leotabosa&line_height=32&hide=stars&title_color=555555&text_color=838383&count_private=true" />
 </a>
