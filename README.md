@@ -1,5 +1,13 @@
 **Hi there!**
 <hr/>
+<div align=center>
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=leotabosa&line_height=24&hide=stars,issues&title_color=555555&text_color=838383&count_private=true&show_icons=true&custom_title=Stats&hide_rank=true" />
+  </a>
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leotabosa&langs_count=3&title_color=555555&text_color=838383&layout=compact" />
+  </a>
+<div align=center>
 
 ### Languages and tools:
 
